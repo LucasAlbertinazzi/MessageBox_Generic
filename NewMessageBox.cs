@@ -1,4 +1,4 @@
-﻿namespace Sist_Controle.Utils
+﻿namespace Sistema.Utils
 {
     public static class NewMessageBox
     {
